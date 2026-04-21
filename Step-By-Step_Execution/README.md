@@ -155,20 +155,20 @@ With the pipeline complete, we connected Power BI directly to the Synapse Server
 
 ### Semantic Model
 We imported the external tables and structured them into an optimized Star Schema, ensuring efficient query performance and DAX measure calculations.
-![Data Modeling 1](https://github.com/Sumit-Kumar-Github/zz_Raw-Data/blob/744c992f7aff25934987df83a1813824e1dbecc2/adventure-work-data/images/67.jpg)
-![Data Modeling 2](https://github.com/Sumit-Kumar-Github/zz_Raw-Data/blob/744c992f7aff25934987df83a1813824e1dbecc2/adventure-work-data/images/68.jpg)
+![Data Modeling 1](https://github.com/Sumit-Kumar-Github/zz_Raw-Data/blob/744c992f7aff25934987df83a1813824e1dbecc2/adventure-work-data/images/67.png)
+![Data Modeling 2](https://github.com/Sumit-Kumar-Github/zz_Raw-Data/blob/744c992f7aff25934987df83a1813824e1dbecc2/adventure-work-data/images/68.png)
 
 ### Final Dashboards
 The culmination of the pipeline is a comprehensive, four-page interactive dashboard.
 
 **The Executive Dashboard:**
-![Executive Dashboard](https://github.com/Sumit-Kumar-Github/zz_Raw-Data/blob/744c992f7aff25934987df83a1813824e1dbecc2/adventure-work-data/images/adv_work_home-page_powerbi.jpg)
+![Executive Dashboard](https://github.com/Sumit-Kumar-Github/zz_Raw-Data/blob/744c992f7aff25934987df83a1813824e1dbecc2/adventure-work-data/images/adv_work_home-page_powerbi.png)
 
 **Regional Sales & Map Analysis:**
-![Regional Sales](https://github.com/Sumit-Kumar-Github/zz_Raw-Data/blob/744c992f7aff25934987df83a1813824e1dbecc2/adventure-work-data/images/adv_work_page-1_powerbi.jpg)
+![Regional Sales](https://github.com/Sumit-Kumar-Github/zz_Raw-Data/blob/744c992f7aff25934987df83a1813824e1dbecc2/adventure-work-data/images/adv_work_page-1_powerbi.png)
 
 **Product & Inventory Deep-Dive:**
-![Product Deep-Dive](https://github.com/Sumit-Kumar-Github/zz_Raw-Data/blob/744c992f7aff25934987df83a1813824e1dbecc2/adventure-work-data/images/adv_work_page-2_powerbi.jpg)
+![Product Deep-Dive](https://github.com/Sumit-Kumar-Github/zz_Raw-Data/blob/744c992f7aff25934987df83a1813824e1dbecc2/adventure-work-data/images/adv_work_page-2_powerbi.png)
 
 **Customer Intelligence:**
-![Customer Intelligence](https://github.com/Sumit-Kumar-Github/zz_Raw-Data/blob/744c992f7aff25934987df83a1813824e1dbecc2/adventure-work-data/images/adv_work_page-3_powerbi.jpg)
+![Customer Intelligence](https://github.com/Sumit-Kumar-Github/zz_Raw-Data/blob/744c992f7aff25934987df83a1813824e1dbecc2/adventure-work-data/images/adv_work_page-3_powerbi.png)
