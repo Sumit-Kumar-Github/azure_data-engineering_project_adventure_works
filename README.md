@@ -67,7 +67,7 @@ Connected Power BI to the Synapse Serverless SQL endpoint to build a robust sema
 ---
 
 ## 📂 Repository Structure
+* `/ADF_parameters/`: Contains the `p_git.json` used for dynamic pipeline routing.
 * `/Databricks_notebook/`: Contains the `.ipynb` files used for Silver layer transformations.
 * `/PowerBi_dashboard/`: Contains the `.pbix` file.
-* `/ADF_parameters/`: Contains the `p_git.json` used for dynamic pipeline routing.
 * `/Step-By-Step_Execution/`: Contains a dedicated README with a comprehensive, image-backed walkthrough detailing every configuration step across the Azure pipeline.
